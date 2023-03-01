@@ -1,5 +1,8 @@
+
+
 <p>
-- Eu faço curso técnico de informática integrado ao E.M. no Instituo Federal de São Paulo câmpus Votuporanga
+IFSP📚
+Informática💻
 </p>
 
 <div align="center">
